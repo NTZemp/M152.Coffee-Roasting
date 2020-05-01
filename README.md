@@ -2,6 +2,10 @@
 
 ## Projektbeschrieb
 
+### Inhalt
+
+In unserem Projekt handelt es sich um eine Webseite über eine neue Kaffeerösterei.
+Die Webseite soll jegentliche Informationen über die Tätigkeiten der Firma, wie auch die Nachhaltigkeit ihrer Kaffeebohnen umfassen.
 
 ### Personas
 
