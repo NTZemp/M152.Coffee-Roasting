@@ -1,0 +1,52 @@
+.toolbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 5px;
+  display: block;
+  text-align: center;
+  background-color: saddlebrown;
+  color: white;
+}
+
+.toolbar img {
+  width: 70px;
+}
+
+.video {
+  margin-top: 90px;
+}
+
+.video img {
+  width: 100%;
+  height: 350px;
+}
+
+.content {
+  width: 80%;
+  margin: 0 10%;
+}
+
+.content img {
+  width: 45%;
+}
+
+.content #paragraph1 p {
+  float: left;
+  width: 50%;
+  margin-right: 10px;
+}
+
+.content #paragraph2 p {
+  float: right;
+  width: 50%;
+  margin-left: 10px;
+}
+
+.footer img {
+  width: 100%;
+  height: 350px;
+}
+
+
